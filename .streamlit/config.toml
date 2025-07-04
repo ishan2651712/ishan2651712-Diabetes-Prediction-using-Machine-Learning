@@ -6,3 +6,7 @@ secondaryBackgroundColor="#1C1F26"
 textColor="#E0E0E0"
 font="monospace"
 
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
